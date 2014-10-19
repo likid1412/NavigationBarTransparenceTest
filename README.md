@@ -5,4 +5,6 @@ This is a test project for transitioning between transparent navigation bar to t
 
 导航栏透明和半透明过场动画切换 Demo
 
-效果图请参考 NavigationBarTransparence.png
+###Screenshot:
+
+![Alt text](https://github.com/likid1412/NavigationBarTransparenceTest/blob/master/NavigationBarTransparence.png)
