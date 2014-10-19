@@ -7,4 +7,4 @@ This is a test project for transitioning between transparent navigation bar to t
 
 ###Screenshot:
 
-![Alt text](https://github.com/likid1412/NavigationBarTransparenceTest/blob/master/NavigationBarTransparence.png)
+![Alt text](NavigationBarTransparence.png)
